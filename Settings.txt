@@ -1,5 +1,5 @@
 [Main]
-api_key=
+api_key=6265801728:AAGbkm1B7ORMOFxAFON_oTNW27YHK2IFvvc
 filename_telefon=telefon.xlsx
 column_name=1
 column_phone=5
